@@ -1,12 +1,13 @@
 ## Intro
 
-This is the Course Project for Coursera Getting and Cleaning Data course.
+This is the Course Project for Coursera _Getting and Cleaning Data_ course.
 
 In this project we have to collect a raw data and transform to a tidy data.
 
 ## Script
 
-The R script called run\_analysis.R does all the task for obtain the tidy data required. These task are:
+The R script called __run\_analysis.R__ does all the task for obtain the tidy data required. These task are:
+
 1. Load the requiered library, plyr
 1. Download the raw data for the project
 1. Unzip it
@@ -20,5 +21,5 @@ The R script called run\_analysis.R does all the task for obtain the tidy data r
 
 ## Codebook
 
-The file Codebook.md contains describes the variables, the data, and work that have been performed.
+The file __Codebook.md__ contains the variables, the data, and work that have been performed.
 
